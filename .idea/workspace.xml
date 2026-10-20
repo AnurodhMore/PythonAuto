@@ -4,13 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d003c3-9674-484e-ba50-186caaf3d3b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonAuto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab001.py" afterDir="false" />
+    <list default="true" id="93d003c3-9674-484e-ba50-186caaf3d3b4" name="Changes" comment="new file added">
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/Lab006_Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab003_keywords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab007_dynamically_typed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab008_Identifierandliteral.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab009_IQ_BODMAS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab10_multiplevarialbles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab11_Maths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab12_userinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab13_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab14_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab15_if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab16_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab17_factorialprogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab18_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab19_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab20_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab21_setmapfilterdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Pandas/lab22_pandas1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Pandas/lab23_Webscrapping_extract_csvfiles_from_web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Pandas/lab24_extract_tables_from_pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Pandas/lab25_webauto_htmltags_xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Pandas/lab26_pivottables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/Lab002,py.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +47,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AnurodhMore"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AnurodhMore/PythonAuto.git",
+    "accountId": "19a4fe0f-7cab-4bce-982a-f76e4d20aa70"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3KmuWfRpXx0dvpYJ8JEkncncZvm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,19 +75,130 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Lab001.executor": "Run",
+    "Python.Lab002,py.executor": "Run",
+    "Python.Lab006_Variables.executor": "Run",
+    "Python.lab003_keywords.executor": "Run",
+    "Python.lab008_Identifier.executor": "Run",
+    "Python.lab009_IQ_BODMAS.executor": "Run",
+    "Python.lab10_multiplevarialbles.executor": "Run",
+    "Python.lab11_Maths.executor": "Run",
+    "Python.lab12_userinput.executor": "Run",
+    "Python.lab13_Strings.executor": "Run",
+    "Python.lab14_operators.executor": "Run",
+    "Python.lab15_if_else.executor": "Run",
+    "Python.lab16_calculator.executor": "Run",
+    "Python.lab17_factorialprogram.executor": "Run",
+    "Python.lab18_loops.executor": "Run",
+    "Python.lab19_functions.executor": "Run",
+    "Python.lab20_decorator.executor": "Run",
+    "Python.lab21_setmapfilterdict.executor": "Run",
+    "Python.lab22_pandas1.executor": "Run",
+    "Python.lab23_Webscrapping_extract_csvfiles_from_web.executor": "Run",
+    "Python.lab24_extract_tables_from_pdf.executor": "Run",
+    "Python.lab26_pivottables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.Jupyter Settings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex_01_Python_Basics" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAuto" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_01_Python_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAuto" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab003_keywords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAuto" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab003_keywords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab003_keywords" />
+        <item itemvalue="Python.Lab002,py" />
+        <item itemvalue="Python.Lab001" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,9 +214,22 @@
       <option name="presentableId" value="Default" />
       <updated>1792175097695</updated>
     </task>
+    <task id="LOCAL-00001" summary="new file added">
+      <option name="closed" value="true" />
+      <created>1792176296383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792176296383</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file added" />
   </component>
 </project>
