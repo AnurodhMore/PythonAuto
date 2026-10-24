@@ -4,33 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d003c3-9674-484e-ba50-186caaf3d3b4" name="Changes" comment="new file added">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/Lab006_Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab003_keywords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab007_dynamically_typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab008_Identifierandliteral.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab009_IQ_BODMAS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab10_multiplevarialbles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab11_Maths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab12_userinput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab13_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab14_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab15_if_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab16_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab17_factorialprogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab18_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab19_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab20_decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Condition_loops/lab21_setmapfilterdict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Pandas/lab22_pandas1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Pandas/lab23_Webscrapping_extract_csvfiles_from_web.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Pandas/lab24_extract_tables_from_pdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Pandas/lab25_webauto_htmltags_xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Pandas/lab26_pivottables.py" afterDir="false" />
+    <list default="true" id="93d003c3-9674-484e-ba50-186caaf3d3b4" name="Changes" comment="new files added">
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Pandas/lab27_mass_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/Lab002,py.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +23,81 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AnurodhMore"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AnurodhMore&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AnurodhMore/PythonAuto.git",
-    "accountId": "19a4fe0f-7cab-4bce-982a-f76e4d20aa70"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AnurodhMore/PythonAuto.git&quot;,
+    &quot;accountId&quot;: &quot;19a4fe0f-7cab-4bce-982a-f76e4d20aa70&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.329415460228892" />
+      <entry key="MS500" value="3.950303475899275" />
+      <entry key="S2" value="8.828423533806646" />
+      <entry key="S5" value="11.825719416742022" />
+      <entry key="S10" value="13.256814434011902" />
+      <entry key="S30" value="14.612155359507579" />
+      <entry key="S60" value="16.671898467077163" />
+      <entry key="M2" value="20.652591662320397" />
+      <entry key="M5" value="26.013031444878322" />
+      <entry key="M10" value="29.00363527976483" />
+      <entry key="M15" value="30.685137115857263" />
+      <entry key="M30" value="33.77525086829025" />
+      <entry key="H1" value="36.55849076672989" />
+      <entry key="H2" value="38.51147195072699" />
+      <entry key="H4" value="39.67926882280891" />
+      <entry key="D1" value="40.76833696029258" />
+      <entry key="W1" value="40.966609790708745" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="6.689714771494681E-176" />
+      <entry key="S10" value="2.5864482928322156E-88" />
+      <entry key="S30" value="6.371396024481306E-30" />
+      <entry key="S60" value="2.524162440193044E-15" />
+      <entry key="M2" value="5.024104338280646E-8" />
+      <entry key="M5" value="0.0012034372775351486" />
+      <entry key="M10" value="0.034690593502203826" />
+      <entry key="M15" value="0.10636722276316737" />
+      <entry key="M30" value="0.3261398822026638" />
+      <entry key="H1" value="0.5710865803034283" />
+      <entry key="H2" value="0.755702706296218" />
+      <entry key="H4" value="0.8693116278390723" />
+      <entry key="D1" value="0.9769280545363113" />
+      <entry key="W1" value="0.9966709438058163" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2768090500071285" />
+      <entry key="MS500" value="3.9196262811849456" />
+      <entry key="S2" value="8.812022140606055" />
+      <entry key="S5" value="11.817135731619823" />
+      <entry key="S10" value="13.252048688190587" />
+      <entry key="S30" value="14.610406762784509" />
+      <entry key="S60" value="16.670867162098762" />
+      <entry key="M2" value="20.651918565754247" />
+      <entry key="M5" value="26.013808050445217" />
+      <entry key="M10" value="29.037124989857016" />
+      <entry key="M15" value="30.789343668674228" />
+      <entry key="M30" value="34.09825674875529" />
+      <entry key="H1" value="37.12687649602525" />
+      <entry key="H2" value="39.26539894084048" />
+      <entry key="H4" value="40.54756204490012" />
+      <entry key="D1" value="41.74507470049934" />
+      <entry key="W1" value="41.963253007806564" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3KmuWfRpXx0dvpYJ8JEkncncZvm" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -96,11 +131,14 @@
     "Python.lab23_Webscrapping_extract_csvfiles_from_web.executor": "Run",
     "Python.lab24_extract_tables_from_pdf.executor": "Run",
     "Python.lab26_pivottables.executor": "Run",
+    "Python.lab27_mass_test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -110,7 +148,8 @@
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "configurable.group.Jupyter Settings"
+    "settings.editor.selected.configurable": "configurable.group.Jupyter Settings",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -133,6 +172,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab001.py" />
       <option name="PARAMETERS" value="" />
@@ -157,6 +197,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002.py" />
       <option name="PARAMETERS" value="" />
@@ -181,6 +222,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/lab003_keywords.py" />
       <option name="PARAMETERS" value="" />
@@ -193,9 +235,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab003_keywords" />
-        <item itemvalue="Python.Lab002,py" />
         <item itemvalue="Python.Lab001" />
+        <item itemvalue="Python.lab003_keywords" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +254,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1792175097695</updated>
+      <workItem from="1792510926975" duration="4198000" />
     </task>
     <task id="LOCAL-00001" summary="new file added">
       <option name="closed" value="true" />
@@ -222,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792176296383</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new files added">
+      <option name="closed" value="true" />
+      <created>1792491349219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1792491349219</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +280,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file added" />
+    <MESSAGE value="new files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_04_Pandas/lab27_mass_test.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonAuto$Lab001.coverage" NAME="Lab001 Coverage Results" MODIFIED="1792511538180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_01_Python_Basics" />
+    <SUITE FILE_PATH="coverage/PythonAuto$lab27_mass_test.coverage" NAME="lab27_mass_test Coverage Results" MODIFIED="1792511585554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_04_Pandas" />
   </component>
 </project>
